@@ -1,3 +1,4 @@
 mkdir 1_fastqc
 cd 1_fastqc
 ln -s 
+
